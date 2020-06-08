@@ -74,18 +74,16 @@ Como as Urls estão fixas para o desenvolvimento, verificar se vai ser necessár
 
 ### Mobile
 #### Inicial
-<img src="./readme_files/mobile_home.jpeg" width="200">
+<img src="./readme_files/mobile_home.jpeg" width="350">
 
 #### Tela principal sem filtro de tipos de resíduos de coleta
-<img src="./readme_files/mobile_tela_inicial_sem_filtro.jpeg" width="200">
+<img src="./readme_files/mobile_tela_inicial_sem_filtro.jpeg" width="350">
 
 #### Tela principal com filtro de tipos de resíduos de coleta
-<img src="./readme_files/mobile_tela_inicial_com_filtro.jpeg" width="200">
+<img src="./readme_files/mobile_tela_inicial_com_filtro.jpeg" width="350">
 
 #### Tela de detalhes do ponto de coleta
-<img src="./readme_files/mobile_tela_detalhes.jpeg" width="200">
-
-
+<img src="./readme_files/mobile_tela_detalhes.jpeg" width="350">
 
 ## Conclusões pessoais sobre o projeto.
 Como o projeto foi baseado nas aulas que foram oferecidas, sei que muito conteúdo e muitas validações de segurança ainda são necessárias.
