@@ -74,7 +74,7 @@ Como as Urls estão fixas para o desenvolvimento, verificar se vai ser necessár
 
 ### Mobile
 #### Inicial
-![Mobile inicial](./readme_files/mobile_home.jpeg | width=200)
+![Mobile inicial](./readme_files/mobile_home.jpeg | width=200px)
 #### Tela principal sem filtro de tipos de resíduos de coleta
 ![Mobile inicial sem filtro](./readme_files/mobile_tela_inicial_sem_filtro.jpeg)
 #### Tela principal com filtro de tipos de resíduos de coleta
