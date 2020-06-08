@@ -1,0 +1,1 @@
+![Ecoleta front image](./readme_files/header.png)
