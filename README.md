@@ -74,16 +74,17 @@ Como as Urls estão fixas para o desenvolvimento, verificar se vai ser necessár
 
 ### Mobile
 #### Inicial
-<img src="./readme_files/mobile_home.jpeg" width="100">
+<img src="./readme_files/mobile_home.jpeg" width="200">
 
-
-![Mobile inicial](./readme_files/mobile_home.jpeg?s=200)
 #### Tela principal sem filtro de tipos de resíduos de coleta
-![Mobile inicial sem filtro](./readme_files/mobile_tela_inicial_sem_filtro.jpeg)
+<img src="./readme_files/mobile_tela_inicial_sem_filtro.jpeg" width="200">
+
 #### Tela principal com filtro de tipos de resíduos de coleta
-![Mobile inicial com filtro](./readme_files/mobile_tela_inicial_com_filtro.jpeg)
+<img src="./readme_files/mobile_tela_inicial_com_filtro.jpeg" width="200">
+
 #### Tela de detalhes do ponto de coleta
-![Mobile tela de detalhes](./readme_files/mobile_tela_detalhes.jpeg)
+<img src="./readme_files/mobile_tela_detalhes.jpeg" width="200">
+
 
 
 ## Conclusões pessoais sobre o projeto.
